@@ -1,4 +1,4 @@
-# How to contact me
+# Contact
 
 [github](https://github.com/lkrzyzanek)
 
