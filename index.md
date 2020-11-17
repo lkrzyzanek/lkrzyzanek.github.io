@@ -1,1 +1,1 @@
-== krzyzanek.com site
+[github](https://github.com/lkrzyzanek)

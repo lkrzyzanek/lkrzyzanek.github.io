@@ -1,1 +1,1 @@
-# lkrzyzanek.github.io
+# krzyzanek.com
