@@ -1,4 +1,4 @@
-# Contact
+### Contact
 
 [github](https://github.com/lkrzyzanek)
 
